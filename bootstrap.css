@@ -6633,3 +6633,32 @@ input[type="checkbox"] {
 .modal .close {
   color: #222222;
 }
+
+h1#title{
+    color:;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    font-size: 200px;
+    position: absolute;
+    text-align: center;
+    width:100%;
+    
+}
+#containtitle{
+ width:100%;
+    
+    
+}
+
+body{
+ background-image:   radial-gradient(#778787,#776788);
+background-image:    url(trianglify-background.svg);
+
+}
+footer{
+
+ background-image: repeating-linear-gradient(#234223,#af3223, #234233);
+    
+    
+}
