@@ -6634,20 +6634,15 @@ input[type="checkbox"] {
   color: #222222;
 }
 
-h1#title{
+#title{
     color:;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10%;
     font-size: 200px;
-    position: absolute;
+    position: relative;
+    margin-top: 10%;
     text-align: center;
     width:100%;
-    
-}
-#containtitle{
- width:100%;
-    
     
 }
 
@@ -6660,5 +6655,17 @@ footer{
 
  background-image: repeating-linear-gradient(#234223,#af3223, #234233);
     
+    
+}
+
+
+
+
+
+#intro{
+ background-color: transparent;   
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
     
 }
