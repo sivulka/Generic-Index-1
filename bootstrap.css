@@ -6649,6 +6649,8 @@ input[type="checkbox"] {
 body{
  background-image:   radial-gradient(#778787,#776788);
 background-image:    url(trianglify-background.svg);
+background-repeat: repeat-y;
+    
 
 }
 footer{
